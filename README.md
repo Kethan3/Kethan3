@@ -1,16 +1,25 @@
-## Hi there 👋
 
-<!--
-**Kethan3/Kethan3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# `Hello , I'm Kethan Gowda N 👋🏽`
 
-Here are some ideas to get you started:
+A self-taught `Full-Stack Developer`.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* I develop web applications in `Next.js` and `React.Js`.
+* I develop backend applications in `Node.Js`.
+* I develop AI applications using `mistral` models and `weaviate` vector database.
+
+  ### Experience
+
+  - Web
+  - `Next.js (JS/TS)` • `⭐️⭐️` 
+  - `React.JS (JS/TS)` • `⭐️⭐️⭐️` 
+ 
+- Back End
+  - `Node.js (JS/TS)` • `⭐️⭐️` 
+ 
+- AI
+  - `Mistral` • `⭐️` 
+  - `weaviate` • `⭐️` 
+
+
+### Projects
+- [`decentralized-auction`](https://github.com/Kethan3/decentralized-auction.git)
