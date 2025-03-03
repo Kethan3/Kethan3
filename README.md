@@ -10,8 +10,8 @@ A self-taught `Full-Stack Developer`.
 ### Experience
 
 - Web
-  - `Next.js (JS/TS)` • `⭐️⭐️` 
-  - `React.JS (JS/TS)` • `⭐️⭐️⭐️` 
+  - `Next.js (JS/TS)` • `⭐️` 
+  - `React.JS (JS/TS)` • `⭐️⭐️` 
  
 - Back End
   - `Node.js (JS/TS)` • `⭐️⭐️` 
